@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
     background-image: url(images/bg-pattern-bottom.svg), 
     url(images/bg-pattern-top.svg);
-    background-position: bottom -47vh right -18vw, top -35vh left -21vw;
+    background-position: bottom -45vh right -16vw, top -35vh left -20vw;
     background-repeat: no-repeat;
     background-color: hsl(185, 75%, 39%);
     display: flex;
@@ -107,3 +107,21 @@ body {
     font-size: 15px;
 }
 
+
+/* Media Query */
+
+@media (max-width: 376px) {
+
+    body {
+        background-position: bottom -70vh right -198vw, top -75vh left -198vw;
+    }
+
+    .container {
+        height: 400px;
+        width: 330px;
+    }
+
+    .attribution {
+        font-size: 12px;
+    }
+}
