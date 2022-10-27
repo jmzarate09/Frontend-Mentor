@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
     background-image: url(images/bg-pattern-bottom.svg), 
     url(images/bg-pattern-top.svg);
-    background-position: bottom -50vh right -50vw, top -50vh left -50vw;
+    background-position: bottom -47vh right -18vw, top -35vh left -21vw;
     background-repeat: no-repeat;
     background-color: hsl(185, 75%, 39%);
     display: flex;
@@ -94,7 +94,7 @@ body {
     font-size: 12px;
     font-weight: 400;
     color: hsl(227, 10%, 46%);
-    letter-spacing: 1.5px;
+    letter-spacing: 2px;
     margin-top: 5px;
 }
 
