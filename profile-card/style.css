@@ -113,7 +113,7 @@ body {
 @media (max-width: 376px) {
 
     body {
-        background-position: bottom -70vh right -198vw, top -75vh left -198vw;
+        background-position: bottom -37vh right -198vw, top -40vh left -200vw;
     }
 
     .container {
