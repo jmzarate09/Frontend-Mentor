@@ -24,8 +24,8 @@ Your users should be able to:
 
 ### Screenshot
 
-![image](![desktop](https://user-images.githubusercontent.com/104710592/198395300-9cc7863c-c57f-4311-8a80-b8a1702251ed.png)
-![image](![mobile](https://user-images.githubusercontent.com/104710592/198395276-600bd3d6-b770-4ac8-b8ab-e36e41df8152.png)
+(![desktop](https://user-images.githubusercontent.com/104710592/198395300-9cc7863c-c57f-4311-8a80-b8a1702251ed.png)
+(![mobile](https://user-images.githubusercontent.com/104710592/198395276-600bd3d6-b770-4ac8-b8ab-e36e41df8152.png)
 
 ### Links
 
