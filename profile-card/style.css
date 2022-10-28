@@ -11,9 +11,8 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 400;
     min-height: 100vh;
-    background-image: url(images/bg-pattern-bottom.svg), 
-    url(images/bg-pattern-top.svg);
-    background-position: bottom -75vh right -20vw, top -65vh left -20vw;
+    background-image: url(images/bg-pattern-bottom.svg), url(images/bg-pattern-top.svg);
+    background-position: bottom -90vh right -18vw, top -75vh left -20vw;
     background-repeat: no-repeat;
     background-color: hsl(185, 75%, 39%);
     display: flex;
@@ -21,7 +20,6 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-
 }
 
 .container {
@@ -104,16 +102,54 @@ body {
     position: absolute;
     bottom: 10px;
     color: hsl(227, 10%, 46%);
-    font-size: 15px;
+    font-size: 10px;
 }
 
 
 /* Media Query */
-
-@media (max-width: 376px) {
+@media (max-width: 1200px) {
 
     body {
-        background-position: bottom -68vh right -200vw, top -72vh left -200vw;
+        background-position: bottom -92vh right -30vw, top -92vh left -30vw;
+    }
+
+}
+
+@media (max-width: 992px) {
+
+    body {
+        background-position: bottom -90vh right -60vw, top -90vh left -48vw;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    body {
+        background-position: bottom -95vh right -70vw, top -95vh left -70vw;
+    }
+
+    .attribution {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 600px) {
+
+    body {
+        background-position: bottom -90vh right -100vw, top -80vh left -110vw;
+    }
+
+    .container {
+        height: 430px;
+        width: 400px;
+    }
+}
+
+@media (max-width: 375px) {
+
+    body {
+        background-position: bottom -80vh right -200vw, top -80vh left -205vw;
     }
 
     .container {
@@ -122,6 +158,14 @@ body {
     }
 
     .attribution {
-        font-size: 12px;
+        font-size: 8px;
     }
 }
+
+
+
+
+
+
+
+
