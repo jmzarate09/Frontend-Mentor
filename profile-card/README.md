@@ -29,7 +29,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-solution-HSXh0vNYbD)
 - Live Site URL: [Live site URL here](https://jmzarate09.github.io/Frontend-mentor/profile-card/)
 
 ## My process
