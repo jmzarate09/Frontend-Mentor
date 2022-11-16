@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - NFT Preview Card Component Solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,13 +27,15 @@ Your users should be able to:
 
 ### Screenshot
 
-(![desktop]()
-(![mobile]()
+![desktop](https://user-images.githubusercontent.com/104710592/202096940-3aaddf20-2476-45d8-8e93-afd5a8830941.png)
+![mobile](https://user-images.githubusercontent.com/104710592/202096951-9347505f-2d58-4b0f-985b-6300026d1a4e.png)
+
+
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here](https://jmzarate09.github.io/Frontend-mentor/profile-card/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-0NjQtYq3CT)
+- Live Site URL: [Live site URL here](https://jmzarate09.github.io/Frontend-mentor/NFT-preview-card/)
 
 ## My process
 
