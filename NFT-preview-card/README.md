@@ -27,13 +27,14 @@ Your users should be able to:
 
 ### Screenshot
 
-(![desktop]()
-(![mobile]()
+(!(https://user-images.githubusercontent.com/104710592/202095106-232e7097-32e4-4976-942a-af25394b6258.png)
+
+(!(https://user-images.githubusercontent.com/104710592/202095161-ced5f9d4-86b9-4b0a-a72b-743b340dd76e.png)
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here](https://jmzarate09.github.io/Frontend-mentor/profile-card/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-0NjQtYq3CT)
+- Live Site URL: [Live site URL here](https://jmzarate09.github.io/Frontend-mentor/NFT-preview-card/)
 
 ## My process
 
