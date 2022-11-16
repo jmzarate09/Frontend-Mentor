@@ -27,9 +27,10 @@ Your users should be able to:
 
 ### Screenshot
 
-(!https://user-images.githubusercontent.com/104710592/202095106-232e7097-32e4-4976-942a-af25394b6258.png)
+![desktop](https://user-images.githubusercontent.com/104710592/202096940-3aaddf20-2476-45d8-8e93-afd5a8830941.png)
+![mobile](https://user-images.githubusercontent.com/104710592/202096951-9347505f-2d58-4b0f-985b-6300026d1a4e.png)
 
-(!https://user-images.githubusercontent.com/104710592/202095161-ced5f9d4-86b9-4b0a-a72b-743b340dd76e.png)
+
 
 ### Links
 
