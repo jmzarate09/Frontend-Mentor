@@ -54,6 +54,7 @@ body {
     background-color: hsl(178, 100%, 50%);
     opacity: 0;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .container .img-container .overlay .icon-img img {
@@ -63,9 +64,10 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.container .img-container .overlay:hover {
+.container .img-container:hover .overlay {
     opacity: 0.5;
 }
+
 
 
 /* Card Main Content Section */
@@ -74,6 +76,7 @@ body {
     color: hsl(0, 0%, 100%);
     margin-top: 1rem;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .container .card-info .info h3:hover {
@@ -136,6 +139,7 @@ body {
 
 .container .card-footer span {
     color: hsl(0, 0%, 100%);
+    cursor: pointer;
 }
 
 .container .card-footer span:hover {
