@@ -31,7 +31,6 @@ Your users should be able to:
 ![mobile](https://user-images.githubusercontent.com/104710592/202096951-9347505f-2d58-4b0f-985b-6300026d1a4e.png)
 
 
-
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-0NjQtYq3CT)
