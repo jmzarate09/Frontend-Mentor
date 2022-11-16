@@ -72,7 +72,7 @@ body {
 
 .container .card-info .info h3 {
     color: hsl(0, 0%, 100%);
-    margin-top: 15px;
+    margin-top: 1rem;
     font-weight: 600;
 }
 
@@ -82,13 +82,13 @@ body {
 
 .container .card-info .info p {
     color: hsl(215, 51%, 70%);
-    margin-top: 15px;
+    margin-top: 1rem;
     font-weight: 300;
 }
 
 .container .icons {
     color: hsl(215, 51%, 70%);
-    margin-top: 15px;
+    margin-top: 1rem;
     font-size: 15px;
     font-weight: 300;
     display: flex;
@@ -101,20 +101,20 @@ body {
     background-repeat: no-repeat;
     color: hsl(178, 100%, 50%);
     font-weight: 600;
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 .container .icons .clock {
     background-image: url(images/icon-clock.svg);
     background-repeat: no-repeat;
-    padding-left: 25px;
+    padding-left: 1.5rem;
 }
 
 .container .card-footer {
     font-size: 15px;
     font-weight: 200;
     border-top: 1px solid hsl(215, 32%, 27%);
-    margin-top: 20px;
+    margin-top: 1.25rem;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -122,15 +122,15 @@ body {
 
 .container .card-footer img {
     width: 10%;
-    margin-top: 20px;
+    margin-top: 1.25rem;
     border-radius: 60%;
     border: 1px solid hsl(0, 0%, 100%);
 }
 
 .container .card-footer p {
     letter-spacing: 0.5px;
-    padding-left: 20px;
-    margin-top: 20px;
+    padding-left: 1.25rem;
+    margin-top: 1.25rem;
     color: hsl(215, 51%, 70%);
 }
 
@@ -145,7 +145,7 @@ body {
 /* Footer Section */
 .attribution {
     position: absolute;
-    bottom: 10px;
+    bottom: 0.6rem;
     color: hsl(227, 10%, 46%);
     font-size: 10px;
 
