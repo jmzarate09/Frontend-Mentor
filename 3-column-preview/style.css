@@ -64,19 +64,16 @@ body {
     height: 30%;
 }
 
-.button {
-    margin-top: 4rem;
-    margin-left: 3rem;
-    margin-right: 3rem;
-}
-
-.button button {
+button {
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
     width: 60%;
     height: 40px;
     border-radius: 25px;
     border: none;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
 }
 
 button:hover {
@@ -86,27 +83,27 @@ button:hover {
 
 }
 
-.sedans-container .button button {
+.sedans-container button {
     color: hsl(31, 77%, 52%);
 }
 
-.sedans-container .button button:hover {
+.sedans-container button:hover {
     color: hsl(0, 0%, 95%);
 }
 
-.suvs-container .button button {
+.suvs-container button {
     color: hsl(184, 100%, 22%);
 }
 
-.suvs-container .button button:hover {
+.suvs-container button:hover {
     color: hsl(0, 0%, 95%);
 }
 
-.luxury-container .button button {
+.luxury-container button {
     color: hsl(179, 100%, 13%);
 }
 
-.luxury-container .button button:hover {
+.luxury-container button:hover {
     color: hsl(0, 0%, 95%);
 }
 
