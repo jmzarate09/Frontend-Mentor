@@ -26,12 +26,14 @@ Your users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![desktop](https://user-images.githubusercontent.com/104710592/211125262-aa02e1fd-d053-49d2-99fe-90d6f253de97.png)
+![mobile](https://user-images.githubusercontent.com/104710592/211125266-f30f69ef-de95-436f-b82e-bf3aac93af14.png)
 
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-0NjQtYq3CT)
-- Live Site URL: [Live site URL here](https://jmzarate09.github.io/Frontend-mentor/NFT-preview-card/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/3column-preview-card-component-AsfddvvRWj)
+- Live Site URL: [Live site URL here](https://jmzarate09.github.io/Frontend-mentor/3-column-preview/)
 
 ## My process
 
